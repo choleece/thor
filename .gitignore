@@ -1,0 +1,3 @@
+# Project exclude paths
+/thor-cloud/thor-cloud-gateway/target/
+/thor-service/thor-service-test/target/

@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    gateway:
+      routes:
+        - id: qq_route
+          uri: http://qq.com
+          predicates:
+            - Method=GET
